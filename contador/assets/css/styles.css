@@ -1,0 +1,15 @@
+body{
+  color: grey;
+}
+button{
+  font-size: 12px;
+  padding: 7px;
+}
+
+.counter{
+  max-width: 992px;
+  margin: auto;
+  width: 100%;
+  min-width: 320px;
+  align-items: center;
+}
